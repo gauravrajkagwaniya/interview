@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';import 'package:flutter_interview/login.dart';class SplashPage extends StatefulWidget {  @override  _SplashPageState createState() => _SplashPageState();}class _SplashPageState extends State<SplashPage> {  @override  Widget build(BuildContext context) {    return Scaffold(      body: Center(child: Login()),    );  }}

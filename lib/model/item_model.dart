@@ -1,0 +1,1 @@
+class ItemModel{  final String name;  final String imgLink;  ItemModel({this.name, this.imgLink});}
