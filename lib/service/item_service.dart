@@ -1,0 +1,1 @@
+import 'package:flutter_interview/service/api_service.dart';class ItemService extends APIService {  ItemService._();  //look  factory ItemService.getInstance() => _instance;  static final ItemService _instance = ItemService._();  //Future<<String, dynamic>> getItems}

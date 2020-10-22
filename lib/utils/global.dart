@@ -1,0 +1,1 @@
+import 'package:flutter_interview/service/firebase_auth.dart';final FirebaseAuthService firebaseAuthService = FirebaseAuthService.getInstance();
